@@ -1,0 +1,54 @@
+body {
+    background-color: #e8f0f7;
+}
+
+ol {
+margin-right: 40px;
+}
+
+.test_image_and_result {
+    background-color: #4d6e9b;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.first_item {
+    margin-top: 12px;
+    margin-left: 15px;
+}
+
+.output {
+    background-color: #edb5c0;
+    border-radius: 15px;
+    display: inline-block;
+    width: 400px;
+    padding: 15px;
+}
+
+.test_img {
+    width: 200px;
+    height: 275px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#final_conclusion {
+    background-color: #9aa5c3;
+    padding: 20px;
+    border-radius: 15px;
+    height: 80px;
+    margin-top: 3290px;
+    margin-bottom: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #5f6366;
+    line-height: 2;
+    text-align: center;
+}
